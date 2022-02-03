@@ -23,7 +23,14 @@ From figure above we can see th peak hours are in between 4:00PM to 7:00PM. Best
 ![fig3](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Checkout%20Time%20by%20Gender.png?raw=true)
 
 [Tableu Link for Figure 3:](https://public.tableau.com/views/Module14Challenge_16438572576150/CHKBYGender?:language=en-US&:display_count=n&:origin=viz_share_link)
-Overwhelming majority of customers are men. Citibikes needs strategy to attract women as well. 
+Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+
+
+![fig4](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Trip%20By%20Weekdays%20per%20Hour.png?raw=true)
+
+[Tableu Link for Figure 4:](https://public.tableau.com/views/TripByWeekDaysPerHour/TripByWeekdaysperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
+Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+
 
 
 
