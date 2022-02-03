@@ -29,8 +29,7 @@ Overwhelming majority of customers are men. Citibikes needs strategy to attract 
 ![fig4](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Trip%20By%20Weekdays%20per%20Hour.png?raw=true)
 
 [Tableu Link for Figure 4:](https://public.tableau.com/views/TripByWeekDaysPerHour/TripByWeekdaysperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
-Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
-
+Highest usage are during weekdays rush hour trafic. This tells us that people are using bikes to commute to work. Most likely these are people living outside city took a train (or bus) to the city and then used bikes to get to their desitnation. 
 
 ![fig5](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Trips%20by%20Gender%20(Weekdays%20per%20Hour).png?raw=true)
 
