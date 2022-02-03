@@ -30,7 +30,4 @@ Overwhelming majority of customers are men. Citibikes needs strategy to attract 
 
 
 
-
-
-
 ## Summary
