@@ -11,7 +11,7 @@ Upon analyzing we found following results:
 ![fig1](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Checkout%20Time%20for%20Users.png?raw=true)
 
 [Tableu Link for Figure 1:](https://public.tableau.com/views/TableauChallange_16436888439010/CheckoutTimeforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
-From above visulazation we can see that most rides are under 10 minutes and rarely if any rides last over an hour. This tells us most people are just using to get around the nighborhood and a very few for recreational usage as for that purpose ride would have last longers. Therefore having stations in densly populated area with most amanities close by would be benficial. This is a fact that Citibike should keep in mind when they exapnd locations.   
+At figure:1 we can see that most rides are under 10 minutes and rarely if any rides last over an hour. This tells us most people are just using to get around the nighborhood and a very few for recreational usage as for that purpose ride would have last longers. Therefore having stations in densly populated area with most amanities close by would be benficial. This is a fact that Citibike should keep in mind when they exapnd locations.   
 
 
 ![fig2](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/August%20Peak%20Hours.png?raw=true)
@@ -32,9 +32,34 @@ Overwhelming majority of customers are men. Citibikes needs strategy to attract 
 Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
 
 
+![fig5](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Trips%20by%20Gender%20(Weekdays%20per%20Hour).png?raw=true)
 
+[Tableu Link for Figure 5:](https://public.tableau.com/views/Module14ChallengeTripsbyGender/TripsbyGenderWeekdaysperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
+Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+
+
+![fig6](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Gender%20By%20Weekdays.png?raw=true)
+
+[Tableu Link for Figure 6:](https://public.tableau.com/views/Module14ChallengeGenderByWeekDays/GenderByWeekdays?:language=en-US&:display_count=n&:origin=viz_share_link)
+Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+
+
+![fig7](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Top%20Starting%20Locations.png?raw=true)
+
+[Tableu Link for Figure 7:](https://public.tableau.com/views/TopStartingLocations_16439150463030/TopStartingLocations?:language=en-US&:display_count=n&:origin=viz_share_link)
+Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+
+
+
+
+
+![fig8](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Trip%20By%20Weekdays%20per%20Hour.png?raw=true)
+
+[Tableu Link for Figure 8:](https://public.tableau.com/views/TripByWeekDaysPerHour/TripByWeekdaysperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
+Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
 
 
 
 
 ## Summary
+[Story Link](https://public.tableau.com/views/Module14ChallengeStory_16439025485880/CitibikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
