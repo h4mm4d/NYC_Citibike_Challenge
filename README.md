@@ -8,8 +8,23 @@ There are"
 ## Results 
 Upon analyzing we found following results: 
 
-[fig1]
-[FIG 1 : link to Checkout Time for Users](https://public.tableau.com/app/profile/hammad.rahman/viz/TableauChallange_16436888439010/CheckoutTimeforUsers)
+![fig1](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Checkout%20Time%20for%20Users.png?raw=true)
+
+[Tableu Link for Figure 1:](https://public.tableau.com/views/TableauChallange_16436888439010/CheckoutTimeforUsers?:language=en-US&:display_count=n&:origin=viz_share_link)
+From above visulazation we can see that most rides are under 10 minutes and rarely if any rides last over an hour. This tells us most people are just using to get around the nighborhood and a very few for recreational usage as for that purpose ride would have last longers. Therefore having stations in densly populated area with most amanities close by would be benficial. This is a fact that Citibike should keep in mind when they exapnd locations.   
+
+
+![fig2](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/August%20Peak%20Hours.png?raw=true)
+
+[Tableu Link for Figure 2:](https://public.tableau.com/views/AugustPeakHours_16439148473360/AugustPeakHours?:language=en-US&:display_count=n&:origin=viz_share_link)
+From figure above we can see th peak hours are in between 4:00PM to 7:00PM. Best time to do maintaince work on Bikes is between 3:00 AM to 6:00 AM.
+
+
+![fig3](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Checkout%20Time%20by%20Gender.png?raw=true)
+
+[Tableu Link for Figure 3:](https://public.tableau.com/views/Module14Challenge_16438572576150/CHKBYGender?:language=en-US&:display_count=n&:origin=viz_share_link)
+Overwhelming majority of customers are men. Citibikes needs strategy to attract women as well. 
+
 
 
 
