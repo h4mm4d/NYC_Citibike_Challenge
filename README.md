@@ -34,31 +34,37 @@ Highest usage are during weekdays rush hour trafic. This tells us that people ar
 ![fig5](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Trips%20by%20Gender%20(Weekdays%20per%20Hour).png?raw=true)
 
 [Tableu Link for Figure 5:](https://public.tableau.com/views/Module14ChallengeTripsbyGender/TripsbyGenderWeekdaysperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
-Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+While it shows that men and women use similar pattern, overwhelming mejority of those riders are men. 
 
 
 ![fig6](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Gender%20By%20Weekdays.png?raw=true)
 
 [Tableu Link for Figure 6:](https://public.tableau.com/views/Module14ChallengeGenderByWeekDays/GenderByWeekdays?:language=en-US&:display_count=n&:origin=viz_share_link)
-Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+The biggest group of customers are men awho are subscribers and they use the mostly during weekedays. 
 
 
 ![fig7](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Top%20Starting%20Locations.png?raw=true)
 
 [Tableu Link for Figure 7:](https://public.tableau.com/views/TopStartingLocations_16439150463030/TopStartingLocations?:language=en-US&:display_count=n&:origin=viz_share_link)
-Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
-
-
+Most of Citibike customers are renting from southern part of Manhatten. 
 
 
 
 ![fig8](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Dashboard%201.png?raw=true)
 
 [Tableu Link for Figure 8:](https://public.tableau.com/views/Dashboaredpopularlocations/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
+This is a comparison between starting and ending locations where of rides for the month was over 10,000 for the month of August. There are 16 starting locations and 12 ending locations in this list. While all 12 top ending locations were also in top starting location there were starting locations that has much less bikes ending up there. This tells us that in certain location bikes need to be moved to keep it full as traffic is usally going in only directions.  
 
 
 
 
 ## Summary
+Tableau is a powerful and simple to use tool that can give a lot of insight on alarge set of data. In this assignment it was discovered 
+1. Biggest group of customer for Citibike are men who are using Citibikes to help with commute. 
+2. Not all bike return to th elocation where it was borrowed. 
+3. Average ride is less than ten minutes and almost all rides are less than an hour. 
+4. Most rentals happens during weekdays by men.
+
+Below is a link full story created on Tableau. 
 [Story Link](https://public.tableau.com/views/Module14ChallengeStory_16439025485880/CitibikeStory?:language=en-US&:display_count=n&:origin=viz_share_link)
+
