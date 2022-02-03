@@ -53,9 +53,9 @@ Overwhelming majority of customers are men. Citibikes needs strategy to attract 
 
 
 
-![fig8](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Trip%20By%20Weekdays%20per%20Hour.png?raw=true)
+![fig8](https://github.com/h4mm4d/NYC_Citibike_Challenge/blob/main/viz/Dashboard%201.png?raw=true)
 
-[Tableu Link for Figure 8:](https://public.tableau.com/views/TripByWeekDaysPerHour/TripByWeekdaysperHour?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Tableu Link for Figure 8:](https://public.tableau.com/views/Dashboaredpopularlocations/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 Overwhelming majority of customers are men. Citibikes needs strategy to attract women customers and subscribers as well. 
 
 
